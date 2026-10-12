@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dadosdefato.com.br/sitemap.xml
